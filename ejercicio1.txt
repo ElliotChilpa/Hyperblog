@@ -1,0 +1,5 @@
+Hola me llamo Elliot Allan Chilpa Garcia
+
+Este es mi segundo commit pero bueno jajaja
+
+Estoy aprendiendo GIT y GITHUB
