@@ -3,3 +3,6 @@ Hola me llamo Elliot Allan Chilpa Garcia
 Este es mi segundo commit pero bueno jajaja
 
 Estoy aprendiendo GIT y GITHUB
+
+
+Esta es la nueva parte para el commit
